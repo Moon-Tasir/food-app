@@ -2,6 +2,7 @@ body{
     font-family: 'Poppins', sans-serif;
     margin-top: 2%;
     margin-left: 0%;
+    
 }
 #manu{
    
@@ -26,7 +27,7 @@ body{
     border-radius: 10px;
     margin-top: 25px; 
 }
-#txt-color{
+.txt-color{
     color: tomato; 
 }
 .btn-link{
@@ -51,7 +52,24 @@ body{
 .half img{
     height: 95%;
     width: 80%;
-    margin-left: 15%;
-
+    margin-left: 15%;   
+}
+.back-img{
+    background-image: url(img/bac-img.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 0;
+    width: 100%;
     
+}
+#img-size{
+    margin: 1;
+    height: 77%;
+    width: 80%;
+    
+}
+.txt-aline{
+    text-align: center;
+    margin-top: 0;
+
 }
