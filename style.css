@@ -11,10 +11,12 @@ body{
     border-radius: 9px;
     padding: 10px 15px;
     font-weight: 900; 
+    
 }
 .remove-underline{
     text-decoration: none;
-    padding:6px;   
+    padding:6px; 
+    color: brown;  
 }
 #search-br{
     margin-left: 35%;
