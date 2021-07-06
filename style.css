@@ -2,6 +2,7 @@ body{
     font-family: 'Poppins', sans-serif;
     margin-top: 2%;
     margin-left: 0%;
+   
     
 }
 #manu{
@@ -71,5 +72,42 @@ body{
 .txt-aline{
     text-align: center;
     margin-top: 0;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    
+}
+footer h5{
+    color: blanchedalmond;
+}
+footer h1{
+    color: white;
+}
+.recipie-itm{
+    
+   display: flex;
+   
+   justify-content: center;
+   
 
+   
+}
+.recipie{
+    margin: 5px;
+    width: 900px;
+    padding: 20;
+    line-height: 20px;
+    width: 100%;
+    margin: 3%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 15px;
+    padding: 10px;
+}
+.recipie-img{
+    width: 250px;
+    height: 200px;
+    border-radius: 15px;
+    padding-left: 7px;
+   
 }
